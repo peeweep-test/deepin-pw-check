@@ -1,3 +1,9 @@
+deepin-pw-check (6.1.114) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 13:38:24 +0800
+
 deepin-pw-check (6.0.12) unstable; urgency=medium
 
   * chore: Sync by
